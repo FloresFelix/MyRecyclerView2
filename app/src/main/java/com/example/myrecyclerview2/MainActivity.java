@@ -18,11 +18,13 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     ArrayList<pictograma> lista_pictograma;
     TextToSpeech textToSpeech;
+    int val ;
         //probando commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        val = 33;
         lista_pictograma = new ArrayList<>();
         recyclerView = findViewById(R.id.rv);
         recyclerView.setLayoutManager(new GridLayoutManager(this,2));
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     int result = textToSpeech.setLanguage(new Locale( "spa", "ESP" ));
                     if(result == TextToSpeech.LANG_MISSING_DATA || status == TextToSpeech.LANG_NOT_SUPPORTED)
                     {
-                        Toast.makeText(MainActivity.this,"No soporta",Toast.LENGTH_SHORT);
+                        Toast.makeText(MainActivity.this,"No soporta",Toast.LENGTH_SHORT).show();
                     }
                     else
                     {
