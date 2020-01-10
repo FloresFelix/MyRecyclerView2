@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class Conector extends AppCompatActivity {
+    float tonio;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
