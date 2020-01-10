@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MyRecyclerView2</string>
+    <string name="oracion">Haciendo Un ReciclerView</string>
+    <string name="titulo">Titulo</string>
+    <string name="detalle">Aqui van los detelles del pictograma</string>
+    <string name="Titulo1">Cambiar</string>
+    <string name="Titulo2">Intercambiar</string>
+    <string name="Titulo3">Cabello</string>
+    <string name="Titulo4">Cabello canoso</string>
+    <string name="Titulo5">Cabello blanco</string>
+    <string name="Titulo6">Cansado</string>
+    <string name="Titulo7">Decaido</string>
+    <string name="Titulo8">Triste</string>
+    <string name="Titulo9">Cambiar</string>
+    <string name="Titulo10">Aburridos</string>
+    <string name="Titulo11">Mal</string>
+    <string name="Titulo12">Enfermo</string>
+    <string name="Titulo13">Debil</string>
+    <string name="Titulo14">Cantar</string>
+    <string name="Titulo15">Leer libro</string>
+    <string name="Titulo16">Cara a cara</string>
+    <string name="Titulo17">Gritar</string>
+    <string name="Titulo18">Mirando</string>
+    <string name="Titulo19">Chillar</string>
+    <string name="Titulo20">Hablando</string>
+    <string name="Titulo21">Bailando</string>
+    <string name="Titulo22">Solo</string>
+
+    <string name="Detalle01">Quiero cambiar</string>
+    <string name="Detalle02">Quiero intercambair</string>
+    <string name="Detalle03">Tengo Cabello</string>
+    <string name="Detalle04">Tengo cabello blanco</string>
+    <string name="Detalle05">Tengo cabello canoso</string>
+    <string name="Detalle06">Estoy cansado</string>
+    <string name="Detalle07">Estoy decaido</string>
+    <string name="Detalle08">Estoy triste</string>
+    <string name="Detalle09">Quiero otro</string>
+    <string name="Detalle10">Estoy aburrido</string>
+    <string name="Detalle11">Me siento mal</string>
+    <string name="Detalle12">Me siento enfermo</string>
+    <string name="Detalle13">Me siento solo</string>
+    <string name="Detalle14">Quiero canytar</string>
+    <string name="Detalle15">Quiero leer un libro</string>
+    <string name="Detalle16">Te veo a la cara</string>
+    <string name="Detalle17">Quiero gritar</string>
+    <string name="Detalle18">Te estoy mirando</string>
+    <string name="Detalle19">Quiero llorar</string>
+    <string name="Detalle20">Estoy hablando</string>
+    <string name="Detalle21">Quiero bailar</string>
+    <string name="Detalle22">Estoy solo</string>
+
+</resources>
