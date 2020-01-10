@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     ArrayList<pictograma> lista_pictograma;
     TextToSpeech textToSpeech;
-
+        //probando commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
