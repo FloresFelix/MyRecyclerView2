@@ -13,6 +13,7 @@ import org.w3c.dom.Text;
 public class Conector extends AppCompatActivity {
     float tonio;
     ImageButton boton2;
+    ImageButton milo;
     int chiky;
     TextView textView;
     ImageView imageView;
