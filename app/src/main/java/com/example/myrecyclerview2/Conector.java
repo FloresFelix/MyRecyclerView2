@@ -15,7 +15,7 @@ public class Conector extends AppCompatActivity {
     ImageView imageView;
     ImageView pictogramas;
     ImageView botones;
-    //subido desde la pc de infi
+    //subido desde la pc de infinito
     //nito por descubrir
     //subido deade la PC de Escritorio
     @Override
