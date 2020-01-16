@@ -2,6 +2,7 @@ package com.example.myrecyclerview2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -15,6 +16,7 @@ public class Conector extends AppCompatActivity {
     ImageView imageView;
     ImageView pictogramas;
     ImageView botones;
+    Context context;
     //subido desde la pc de infinito
     //nito por descubrir
     //subido deade la PC de Escritorio
