@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -11,6 +12,7 @@ import org.w3c.dom.Text;
 
 public class Conector extends AppCompatActivity {
     float tonio;
+    ImageButton boton2;
     int chiky;
     TextView textView;
     ImageView imageView;
